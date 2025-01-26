@@ -16,3 +16,13 @@ A simple web application to calculate Total FSI, Built-Up Area, and Carpet Area 
 1. Clone this repository:
    ```bash
    git clone https://github.com/R-Mahesh45/FSI-Calculator-Web-App.git
+
+fsi-calculator/
+├── app.py
+├── templates/
+│   └── index.html
+├── static/
+│   ├── script.js
+│   └── styles.css
+├── README.md
+└── requirements.txt
